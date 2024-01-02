@@ -41,7 +41,8 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-  **Pang, S.**; Sun, L.; Tian, Y.; Ma, Y.; Wei, J. [Convolutional Neural Network-Driven Improvements in Global Cloud Detection for Landsat 8 and Transfer Learning on Sentinel-2 Imagery](files://remotesensing-15-01706.pdf). Remote Sens. 2023, 15, 1706. https://doi.org/10.3390/rs15061706
+
 
 # 🎖 Honors and Awards
 - *2023.04* Excellent Award in the 10th "Sharing Cup" Technology Resource Sharing Service Innovation Competition. 
