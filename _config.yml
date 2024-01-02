@@ -9,7 +9,7 @@
 title                    : "Shulin Pang"
 description              : "Just a student who majors in RS. "
 repository               : "psl97/psl97.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
