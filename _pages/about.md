@@ -27,6 +27,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📖 Educations
 - *2020.09 - 2023.06*: M.Sc. in Photogrammetry and Remote Sensing, College of Geodesy and Geomatics, Shandong University of Science and Technology, China
 - *2016.09 - 2020.06*: B.Sc. in Remote Sensing Science and Technology, College of Geodesy and Geomatics, Shandong University of Science and Technology, China
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -41,8 +42,8 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
--  **Pang, S.**; Sun, L.; Tian, Y.; Ma, Y.; Wei, J. [Convolutional Neural Network-Driven Improvements in Global Cloud Detection for Landsat 8 and Transfer Learning on Sentinel-2 Imagery](./files://remotesensing-15-01706.pdf). Remote Sens. 2023, 15, 1706. https://doi.org/10.3390/rs15061706
-
+-  **Pang, S.**; Sun, L.; Tian, Y.; Ma, Y.; Wei, J. [Convolutional Neural Network-Driven Improvements in Global Cloud Detection for Landsat 8 and Transfer Learning on Sentinel-2 Imagery](./tree/main/files:/remotesensing-15-01706.pdf). Remote Sens. 2023, 15, 1706. https://doi.org/10.3390/rs15061706
+-  Ma, Y.; Hou, P.; Zhang, L.; Cao, G.; Sun, L.; **Pang, S.**; Bai, J. [High-Resolution Quantitative Retrieval of Soil Moisture Based on Multisource Data Fusion with Random Forests: A Case Study in the Zoige Region of the Tibetan Plateau](./tree/main/files:/remotesensing-15-01706.pdf). Remote Sens. 2023, 15, 1531. https://doi.org/10.3390/rs15061531
 
 # 🎖 Honors and Awards
 - *2023.04* Excellent Award in the 10th "Sharing Cup" Technology Resource Sharing Service Innovation Competition. 
