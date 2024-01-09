@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I specialize in remote sensing data processing, utilizing satellite remote sensing, big data, and artificial intelligence (machine and deep learning), with a focus on cloud detection and surface thermal anomalies. 
-
+hgffhfhg
 
 # 📖 Educations
 - *2020.09 - 2023.06*: M.Sc. in Photogrammetry and Remote Sensing, College of Geodesy and Geomatics, Shandong University of Science and Technology, China
