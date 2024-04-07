@@ -26,7 +26,7 @@ hgffhfhg
 
 # 📝 Publications 
 
-<font size=10>我是尺寸</font>
+<font size=15>2023</font>
 **2023**
 -  **Pang, S.**; Sun, L.; Tian, Y.; Ma, Y.; Wei, J. [Convolutional Neural Network-Driven Improvements in Global Cloud Detection for Landsat 8 and Transfer Learning on Sentinel-2 Imagery](https://www.mdpi.com/2072-4292/15/6/1706). Remote Sens. 2023, 15, 1706. https://doi.org/10.3390/rs15061706
 -  **Pang, S.**; Sun, L.; Du, Y.; Tian, Y. [Cloud-Detection Algorithm for Images Obtained Using the Visual and Infrared Multispectral Imager](https://www.opticsjournal.net/Articles/OJde0a253a931be274/FullText). Laser & Optoelectronics Progress, 2023, 60(22): 2228003
